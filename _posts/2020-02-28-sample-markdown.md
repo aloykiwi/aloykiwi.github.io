@@ -12,33 +12,28 @@ author: Aloysius
 {: .box-success}
 This is a post to show you (the reader) what i spend my free time doing when i am bored or when i have not much to do.
 
-**Here is some bold text**
+**What do i dabble in?**
 
-## Here is a secondary heading
+## Programming/coding
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+In my free time , i have touched on coding/programming . Mainly kali linux and python . The reason i got interested in coding/programming is due to my curiosity on how everything works . For example , when i see my computer screen , i wonder how pixels are displayed on the screen or how i am even able to see the screen. 
 
-Here's a table:
+Here's a few projects i have made by my own through online resources: 
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
+A calculator coded through python
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
-It can also be centered!
+A hash maker : 
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+
+etc etc etc.
+
+
+
+Here's the code for the calculator
 
 ~~~
 var foo = function(x) {
