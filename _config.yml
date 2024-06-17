@@ -22,8 +22,8 @@ author: Aloysius Cheong
 navbar-links:
   About Me: "aboutme"
   Achievements :
-    - Coding: ""
-    - CCA: ""
+    - {file: "aloy.pdf", title: "Coding", icon: Coding}
+    - {file: "cca.pdf", title: "CCA" , icon: Band}
   My home: "https://aloykiwi.github.io"
 
 ################
