@@ -2,7 +2,6 @@
 layout: post
 title: What do i do in my free time ?
 subtitle: There's lots i do !
-gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: false
