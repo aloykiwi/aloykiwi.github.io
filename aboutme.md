@@ -13,4 +13,4 @@ My name is Aloysius Cheong. I have the following qualities:
 
 ### My story
 
-I am just an ordinary kid who dabbles into programming , python , kali linux , gaming and always questions everything on how it works .
+I am just an ordinary kid who dabbles into programming , python , kali linux , gaming and always questions everything on how it works . I also do enjoy football
