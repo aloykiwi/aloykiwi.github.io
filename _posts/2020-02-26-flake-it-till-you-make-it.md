@@ -8,13 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [achievements]
 author: Aloysius 
 ---
-
-CCA
-
-
-
-
-
 YCEP
 
 
@@ -22,6 +15,10 @@ YCEP
 
 CTFs
 
+
+
+
+CCA
 
 
 
