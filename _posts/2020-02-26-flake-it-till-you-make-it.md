@@ -5,7 +5,7 @@ subtitle: Mainly from school currcilumn / own participation / Youth Cyber Explor
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [acchievements]
+tags: [achievements]
 author: Aloysius 
 ---
 
