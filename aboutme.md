@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am i? What do i do?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Aloysius Cheong. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- I am a persistent learner
+- I do not give up easily
+- I am a team worker
+  
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am just an ordinary kid who dabbles into programming , python , kali linux , gaming and always questions everything on how it works .
